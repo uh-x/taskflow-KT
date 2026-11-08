@@ -1,0 +1,28 @@
+# TaskFlow Android
+
+A modern Android productivity application built with Kotlin and Jetpack Compose.
+
+## Features
+
+- Task management
+- Dark mode
+- Offline storage
+- Local notifications
+- Multilingual support
+
+## Tech Stack
+
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Room
+- JUnit
+- Espresso
+
+## Architecture
+
+MVVM + Repository Pattern
+
+## Status
+
+Under active development.
